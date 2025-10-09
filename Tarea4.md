@@ -2,7 +2,7 @@
 ### Universidad de Ciencias Físico Matemáticas
 #### Maestría en Ciencia de Datos - Aprendizaje Automático
 
-Para visualizar mi código en Collab da click aquí](https://colab.research.google.com/drive/1TiLeFIIZq373IfFzPS1Fl1g8C8WAHgIZ#scrollTo=sdRkw7Al0VrM)
+Para visualizar mi código en Collab da click [aquí](https://colab.research.google.com/drive/1TiLeFIIZq373IfFzPS1Fl1g8C8WAHgIZ#scrollTo=sdRkw7Al0VrM)
 
 # Métricas para seleccionar características en literatura
 
